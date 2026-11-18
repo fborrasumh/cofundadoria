@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "Si usas esta aplicación, cítala así."
+message: "Si usas este software, cítalo con estos metadatos."
 title: "CofundadorIA"
-abstract: "Práctica de mentoría con un equipo fundador simulado que discrepa y siembra errores; el código comprueba qué errores se detectaron y verifica las evidencias del mapa de competencias."
 type: software
 authors:
   - family-names: "Borrás Rocher"
     given-names: "Fernando"
     affiliation: "Universidad Miguel Hernández de Elche"
     orcid: "https://orcid.org/0000-0002-5519-4573"
+doi: "10.5281/zenodo.24350922"
 version: "1.0.0"
 date-released: "2026-11-18"
-license: MIT
-repository-code: "https://github.com/fborrasumh/cofundadoria"
 url: "https://fborrasumh.github.io/cofundadoria/"
+repository-code: "https://github.com/fborrasumh/cofundadoria"
+license: MIT

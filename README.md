@@ -49,7 +49,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *CofundadorIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *CofundadorIA* (v1.0.0) [Software]. https://doi.org/10.5281/zenodo.24350922
 
 ## Licencia
 
